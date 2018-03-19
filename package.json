@@ -1,0 +1,24 @@
+{
+  "name": "panobot-slider",
+  "description": "This is a slider extension for Panobot written in OpenSCAD.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobertFach/openscad-panobot-slider.git"
+  },
+  "keywords": [
+    "openSCAD",
+    "panobot",
+    "slider",
+    "construction"
+  ],
+  "author": "Robert Fach",
+  "bugs": {
+    "url": "https://github.com/RobertFach/openscad-panobot-slider/issues"
+  },
+  "homepage": "https://github.com/RobertFach/openscad-panobot-slider",
+  "dependencies": {
+    "belt-idler": "0.1.0",
+    "extrusion-profiles": "0.0.2"
+  }
+}
